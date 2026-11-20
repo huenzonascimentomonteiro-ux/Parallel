@@ -1,0 +1,1 @@
+In this version i build an single scope of what i expect. The user put images and an txt in a input folder, code get this and send for an ai that process and get back an post description.

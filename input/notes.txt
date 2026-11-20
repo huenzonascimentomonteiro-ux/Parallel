@@ -1,0 +1,15 @@
+today i begin work in an new project, the idea is build somethin that can help me make visible the effort 
+that everyday i make, in the begin i think in build only myself, but i subscribe myself in Hack Brasil 2026, 
+and the final day for the first phase is novenber 30, so i decide use ai for make things go faster, for now 
+i do some code myself, i write some functions, but ai is like an senior programming helping me.
+i stuck a little in the model of the ai, cause i am is using gemini api, and some more advanced model    
+have an overload, so i use that now
+
+response = client.models.generate_content(
+        model="gemini-3.5-flash-lite",
+        contents=prompt
+    )
+
+it's an stable aproach at some level. i don't know if an comercial
+product will use it. but i will make it happen, i need make it happen, i will be in São Paulo in 12/12, the 
+possibility of do this travel make me fell goosebumps.
